@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // Lines are as follows: Name, HP, attack name, second attack name
 Goblin
 300
@@ -30,4 +31,38 @@ Transform
 Dragon
 400
 Bite
+=======
+// Lines are as follows: Name, HP, attack name, second attack name
+Goblin
+300
+Punch
+Growl
+Slime
+270
+Bounce
+Dance
+Orc
+350
+Slash
+Roar
+Skeleton
+290
+Slash
+Haunt
+Spider
+320
+Sting
+Web
+Golem
+400
+Stomp
+Quake
+Chimera
+380
+Scratch
+Transform
+Dragon
+400
+Bite
+>>>>>>> 34c23519bb0973b9f2c48977eaf833424bd494a0
 Roar
