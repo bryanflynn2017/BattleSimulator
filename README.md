@@ -2,6 +2,7 @@
 Simulate a randomized RPG battle with an AI!
 
 Steps:
+
 1.) Extract the .zip
 
 2.) Navigate to the BattleSimulator\src\Project\ folder.
